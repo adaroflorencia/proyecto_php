@@ -75,7 +75,7 @@ También se configuró Visual Studio Code para el desarrollo con PHP y se resolv
 
 El entorno quedó preparado para futuros desarrollos web utilizando tecnologías PHP y Laravel de manera estructurada y profesional.
 
-⚠️ Problemas encontrados y soluciones
+# ⚠️ Problemas encontrados y soluciones
 
 ### Error con netstat
 
